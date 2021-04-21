@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppFood</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--spinner categories-->
+    <array name="type_plate">
+        <item>Hoy</item>
+        <item>Ayer</item>
+        <item>Hace 2 días</item>
+        <item>Hace 3 días</item>
+    </array>
+</resources>
